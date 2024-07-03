@@ -219,7 +219,7 @@ SPECTACULAR_SETTINGS = {
     "SERVE_URLCONF": "core.urls",
     "SERVE_PUBLIC": True,
     "SERVE_INCLUDE_SCHEMA": False,
-    "CONTACT": {"name": "Julius Markwei", "email": "julius.markwei@stu.ucc.edu.gh"},
+    "CONTACT": {"name": "Julius Agbame", "email": "julius.agbame@stu.ucc.edu.gh"},
 }
 
 # Heroku CONFIGURATION

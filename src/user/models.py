@@ -6,7 +6,6 @@ from django.contrib.auth.models import (
 )
 import uuid
 
-
 class CustomUserManager(BaseUserManager):
     def create_superuser(self, email, full_name, phone, password, **other_fields):
         other_fields.setdefault("is_admin", True)
