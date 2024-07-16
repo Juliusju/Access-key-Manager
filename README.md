@@ -65,7 +65,7 @@ The project was inspired by the need for a robust and efficient way to manage ac
 
 ## Image of the Browsable API
 
-<a href="https://access-portal-api-44e9247ddee5.herokuapp.com/api/v1" target="_blank" title="Visit live">
+<a href="https://access-manager-a4d588a9e2a5.herokuapp.com/api/v1/" target="_blank" title="Visit live">
     <img src="./assets/admin-image.png" height="480px" width="100%" >
 </a>
 
